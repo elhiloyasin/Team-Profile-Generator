@@ -16,3 +16,22 @@ A video describing how the application works.
 
 ![Team-Profile-Generator-Image](images/teamgeneratorprofile.png)
 
+
+## Contact Information
+
+ >
+  Email | elhiloyasin@gmail.com|
+  ------------------------------ 
+  github | https://github.com/elhiloyasin
+  ------------------------------ 
+  
+  ## Questions
+  ```bash
+  
+  Feel free to contact me 
+  
+  ````
+ 
+  
+  
+
