@@ -14,5 +14,5 @@ A video describing how the application works.
 
 ## Image of Application
 
-![Team-Profile-Generator-Image]()
+![Team-Profile-Generator-Image](images/teamgeneratorprofile.png)
 
