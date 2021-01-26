@@ -8,6 +8,6 @@
 that generate a __descriptive__ profile of each indiviual that is a part of that users team.
 
 ## Image of Applicatation
-![TeamProfileGenerator](images/Screen Shot 2021-01-26 at 3.26.19 AM.png)
+![TeamProfileGenerator](./images/Screen Shot 2021-01-26 at 3.26.19 AM.png)
 
 
